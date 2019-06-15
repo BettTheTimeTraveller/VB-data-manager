@@ -1,0 +1,11 @@
+E:\Libraries\Code\vb\VehicleInfo\VehicleInfo\bin\Debug\VehicleInfo.exe.config
+E:\Libraries\Code\vb\VehicleInfo\VehicleInfo\bin\Debug\VehicleInfo.exe
+E:\Libraries\Code\vb\VehicleInfo\VehicleInfo\bin\Debug\VehicleInfo.pdb
+E:\Libraries\Code\vb\VehicleInfo\VehicleInfo\bin\Debug\VehicleInfo.xml
+E:\Libraries\Code\vb\VehicleInfo\VehicleInfo\obj\Debug\VehicleInfo.vbprojResolveAssemblyReference.cache
+E:\Libraries\Code\vb\VehicleInfo\VehicleInfo\obj\Debug\VehicleInfo.Form1.resources
+E:\Libraries\Code\vb\VehicleInfo\VehicleInfo\obj\Debug\VehicleInfo.Resources.resources
+E:\Libraries\Code\vb\VehicleInfo\VehicleInfo\obj\Debug\VehicleInfo.vbproj.GenerateResource.Cache
+E:\Libraries\Code\vb\VehicleInfo\VehicleInfo\obj\Debug\VehicleInfo.exe
+E:\Libraries\Code\vb\VehicleInfo\VehicleInfo\obj\Debug\VehicleInfo.xml
+E:\Libraries\Code\vb\VehicleInfo\VehicleInfo\obj\Debug\VehicleInfo.pdb
